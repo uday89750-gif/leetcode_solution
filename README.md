@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/uday89750-gif/leetcode_solution/tree/master/0202-happy-number) |
+| [0876-middle-of-the-linked-list](https://github.com/uday89750-gif/leetcode_solution/tree/master/0876-middle-of-the-linked-list) |
 ## Simulation
 |  |
 | ------- |
@@ -26,4 +27,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/uday89750-gif/leetcode_solution/tree/master/0258-add-digits) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/uday89750-gif/leetcode_solution/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
