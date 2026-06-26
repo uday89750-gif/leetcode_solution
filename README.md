@@ -8,6 +8,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/uday89750-gif/leetcode_solution/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/uday89750-gif/leetcode_solution/tree/master/0202-happy-number) |
 ## Math
 |  |
@@ -31,4 +32,8 @@
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/uday89750-gif/leetcode_solution/tree/master/0876-middle-of-the-linked-list) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/uday89750-gif/leetcode_solution/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
