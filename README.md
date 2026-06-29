@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/uday89750-gif/leetcode_solution/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/uday89750-gif/leetcode_solution/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/uday89750-gif/leetcode_solution/tree/master/0202-happy-number) |
 | [0876-middle-of-the-linked-list](https://github.com/uday89750-gif/leetcode_solution/tree/master/0876-middle-of-the-linked-list) |
 ## Simulation
@@ -32,6 +33,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/uday89750-gif/leetcode_solution/tree/master/0148-sort-list) |
 | [0876-middle-of-the-linked-list](https://github.com/uday89750-gif/leetcode_solution/tree/master/0876-middle-of-the-linked-list) |
 ## Array
 |  |
@@ -42,4 +44,13 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/uday89750-gif/leetcode_solution/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/uday89750-gif/leetcode_solution/tree/master/0148-sort-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/uday89750-gif/leetcode_solution/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/uday89750-gif/leetcode_solution/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
