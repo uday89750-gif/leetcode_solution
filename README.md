@@ -13,6 +13,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/uday89750-gif/leetcode_solution/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/uday89750-gif/leetcode_solution/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/uday89750-gif/leetcode_solution/tree/master/0258-add-digits) |
 ## Two Pointers
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/uday89750-gif/leetcode_solution/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/uday89750-gif/leetcode_solution/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/uday89750-gif/leetcode_solution/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
