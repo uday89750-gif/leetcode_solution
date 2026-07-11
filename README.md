@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/uday89750-gif/leetcode_solution/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/uday89750-gif/leetcode_solution/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/uday89750-gif/leetcode_solution/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/uday89750-gif/leetcode_solution/tree/master/0217-contains-duplicate) |
 ## Math
@@ -43,6 +44,7 @@
 | [0001-two-sum](https://github.com/uday89750-gif/leetcode_solution/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/uday89750-gif/leetcode_solution/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/uday89750-gif/leetcode_solution/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/uday89750-gif/leetcode_solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/uday89750-gif/leetcode_solution/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/uday89750-gif/leetcode_solution/tree/master/1480-running-sum-of-1d-array) |
 ## Sorting
@@ -50,11 +52,13 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/uday89750-gif/leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/uday89750-gif/leetcode_solution/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/uday89750-gif/leetcode_solution/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/uday89750-gif/leetcode_solution/tree/master/0217-contains-duplicate) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/uday89750-gif/leetcode_solution/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/uday89750-gif/leetcode_solution/tree/master/0169-majority-element) |
 ## Merge Sort
 |  |
 | ------- |
@@ -63,4 +67,8 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/uday89750-gif/leetcode_solution/tree/master/1480-running-sum-of-1d-array) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/uday89750-gif/leetcode_solution/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
