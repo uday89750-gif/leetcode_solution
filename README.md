@@ -44,6 +44,7 @@
 | [0066-plus-one](https://github.com/uday89750-gif/leetcode_solution/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/uday89750-gif/leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/uday89750-gif/leetcode_solution/tree/master/0217-contains-duplicate) |
+| [1480-running-sum-of-1d-array](https://github.com/uday89750-gif/leetcode_solution/tree/master/1480-running-sum-of-1d-array) |
 ## Sorting
 |  |
 | ------- |
@@ -58,4 +59,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/uday89750-gif/leetcode_solution/tree/master/0148-sort-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/uday89750-gif/leetcode_solution/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
