@@ -4,13 +4,12 @@ class Solution {
             return nums;
         }
        int [] newarr = new int[nums.length];
-        for(int i = 0;i<nums.length;i++){
-            int j = 0;
-          
-            while(j<=i){
-                newarr[i]+= nums[j];
-                j+=1;
-            }
+       newarr[0]= nums[0];
+       int sum= nums[0];
+        for(int i = 1;i<nums.length;i++){
+            sum += nums[i];
+            newarr[i]=sum;
+
         }
         return newarr;
     }
