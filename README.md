@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/uday89750-gif/leetcode_solution/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/uday89750-gif/leetcode_solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/uday89750-gif/leetcode_solution/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/uday89750-gif/leetcode_solution/tree/master/0258-add-digits) |
 ## Two Pointers
@@ -23,6 +24,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/uday89750-gif/leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/uday89750-gif/leetcode_solution/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/uday89750-gif/leetcode_solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/uday89750-gif/leetcode_solution/tree/master/0202-happy-number) |
 | [0876-middle-of-the-linked-list](https://github.com/uday89750-gif/leetcode_solution/tree/master/0876-middle-of-the-linked-list) |
 ## Simulation
@@ -45,6 +47,7 @@
 | [0066-plus-one](https://github.com/uday89750-gif/leetcode_solution/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/uday89750-gif/leetcode_solution/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/uday89750-gif/leetcode_solution/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/uday89750-gif/leetcode_solution/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/uday89750-gif/leetcode_solution/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/uday89750-gif/leetcode_solution/tree/master/1480-running-sum-of-1d-array) |
 ## Sorting
