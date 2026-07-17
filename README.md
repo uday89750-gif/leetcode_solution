@@ -53,6 +53,7 @@
 | [0189-rotate-array](https://github.com/uday89750-gif/leetcode_solution/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/uday89750-gif/leetcode_solution/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/uday89750-gif/leetcode_solution/tree/master/1480-running-sum-of-1d-array) |
+| [2951-find-the-peaks](https://github.com/uday89750-gif/leetcode_solution/tree/master/2951-find-the-peaks) |
 ## Sorting
 |  |
 | ------- |
@@ -77,4 +78,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/uday89750-gif/leetcode_solution/tree/master/0169-majority-element) |
+## Enumeration
+|  |
+| ------- |
+| [2951-find-the-peaks](https://github.com/uday89750-gif/leetcode_solution/tree/master/2951-find-the-peaks) |
 <!---LeetCode Topics End-->
