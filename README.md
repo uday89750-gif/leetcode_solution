@@ -4,6 +4,7 @@
 ## Database
 |  |
 | ------- |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/uday89750-gif/leetcode_solution/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1148-article-views-i](https://github.com/uday89750-gif/leetcode_solution/tree/master/1148-article-views-i) |
 | [1729-find-followers-count](https://github.com/uday89750-gif/leetcode_solution/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/uday89750-gif/leetcode_solution/tree/master/1757-recyclable-and-low-fat-products) |
