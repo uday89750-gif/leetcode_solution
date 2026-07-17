@@ -4,6 +4,7 @@
 ## Database
 |  |
 | ------- |
+| [1148-article-views-i](https://github.com/uday89750-gif/leetcode_solution/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/uday89750-gif/leetcode_solution/tree/master/1757-recyclable-and-low-fat-products) |
 ## Hash Table
 |  |
